@@ -78,3 +78,7 @@ It uses PDF text extraction with [PyPDF2](https://pypi.org/project/PyPDF2/) and 
 ---
 
 Feel free to modify the regex or extraction logic to adapt to different bill formats or additional data points.
+
+## Visualization Example
+
+The second image above illustrates a real-world dashboard one could create using Power BI from the extracted CSVs. It demonstrates how parsed data—such as electricity consumption, billing periods, and cost breakdowns—can be visualized to gain better insights. The values and axes in the chart have been anonymized to protect sensitive billing details, but the structure and layout reflect what is achievable with minimal data transformation. This visual can help users track their energy usage patterns over time, compare "heures creuses" vs "heures pleines," and identify billing anomalies or trends.
