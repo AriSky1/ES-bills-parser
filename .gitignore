@@ -1,0 +1,22 @@
+# Ignore Python virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Ignore CSV output files
+*.csv
+
+# Ignore Python cache and bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE/editor settings (e.g., PyCharm)
+.idea/
+.vscode/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
